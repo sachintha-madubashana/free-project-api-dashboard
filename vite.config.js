@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  base: "/FreeProjectAPI-Sandbox-Project-Dashboard/",
+  base: "/free-project-api-dashboard/",
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "./src"),

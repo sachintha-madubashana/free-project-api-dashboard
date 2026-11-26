@@ -1,4 +1,4 @@
-# FreeProjectAPI Sandbox Project Dashboard
+# FreeProjectAPI Dashboard
 
 ![Repository Banner](docs/screenshots/banner.png)
 
@@ -6,7 +6,7 @@ A Vite single-page dashboard that brings several frontend application ideas into
 
 ## 🌐 Live Demo
 
-[Open the FreeProjectAPI Sandbox Dashboard](https://sachintha-madubashana.github.io/FreeProjectAPI-Sandbox-Project-Dashboard/)
+[Open the FreeProjectAPI Sandbox Dashboard](https://sachintha-madubashana.github.io/free-project-api-dashboard/)
 
 ## 📖 Overview
 
@@ -115,13 +115,13 @@ Make sure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/sachintha-madubashana/FreeProjectAPI-Sandbox-Project-Dashboard
+git clone https://github.com/sachintha-madubashana/free-project-api-dashboard
 ```
 
 Navigate to the project:
 
 ```bash
-cd FreeProjectAPI-Sandbox-Project-Dashboard
+cd free-project-api-dashboard
 ```
 
 Install dependencies:
@@ -156,7 +156,7 @@ npm run preview
 
 ## 🚢 Deployment
 
-The Vite configuration uses the GitHub Pages base path `/FreeProjectAPI-Sandbox-Project-Dashboard/`. The router supports both the repository base path in deployment and the root path during local development.
+The Vite configuration uses the GitHub Pages base path `/free-project-api-dashboard/`. The router supports both the repository base path in deployment and the root path during local development.
 
 ## ⚠️ Project Scope
 
@@ -176,10 +176,6 @@ It is not intended to be used as a production platform.
 ## 🙏 Acknowledgements
 
 This project uses FreeProjectAPI as the public API source for its applications.
-
-## 📄 License
-
-See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
